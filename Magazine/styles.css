@@ -32,3 +32,14 @@ a {
   text-decoration: none;
   color: linen;
 }
+
+/* add the grid styling below here */
+
+main {
+  display: grid;
+  grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 94rem) minmax(
+      2rem,
+      1fr
+    );
+  row-gap: 3rem;
+}
