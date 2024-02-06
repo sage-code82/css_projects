@@ -13,3 +13,7 @@ Leaning simple responsive web design
 ## Skyline finished 03.02.24
 
 A project to help me learn how to use CSS Variables
+
+## Magazine Article
+
+A magazine article to help me get to grips with CSS Grid
