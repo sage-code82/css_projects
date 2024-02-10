@@ -17,3 +17,7 @@ A project to help me learn how to use CSS Variables
 ## Magazine Article
 
 A magazine article to help me get to grips with CSS Grid
+
+## Ferris Wheel 10.02.24
+
+A basic Ferris Wheel to learn about Keyframe and animations.
