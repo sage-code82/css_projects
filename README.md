@@ -21,3 +21,7 @@ A magazine article to help me get to grips with CSS Grid
 ## Ferris Wheel 10.02.24
 
 A basic Ferris Wheel to learn about Keyframe and animations.
+
+## Penguin 15.02.24
+
+An animated Penguin, pulling together all of the CSS details I have learned
