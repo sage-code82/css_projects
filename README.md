@@ -25,3 +25,7 @@ A basic Ferris Wheel to learn about Keyframe and animations.
 ## Penguin 15.02.24
 
 An animated Penguin, pulling together all of the CSS details I have learned
+
+## Final Project 19.02.24
+
+Final project for the responsive web design course
